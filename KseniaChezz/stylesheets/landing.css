@@ -54,7 +54,7 @@ body.landing .menubar div {
   margin-top: 21px;
   font-size: 26px;
   line-height: 38px;
-}
+}``
 
 .mainSection.center {
   text-align: center;
@@ -105,7 +105,7 @@ body.landing .menubar div {
 }
 
 .mainSection.center section nav {
-  margin-top: 70px;
+  margin: 70px;
   font-size: 0;
 }
 
@@ -118,7 +118,7 @@ body.landing .menubar div {
   bottom: 0;
   right: 0;
   width: 100%;
-  padding-bottom: 35px;
+  padding-bottom: 13px;
 }
 
 .mainSection.center footer p {
