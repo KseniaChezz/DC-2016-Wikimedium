@@ -47,7 +47,7 @@
 
 .galleryNav .disabled {
   opacity: 0;
-  cursor: de
+  cursor: default;
 }
 
 .galleryNav div::before,
